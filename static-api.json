@@ -1,0 +1,72 @@
+[
+  {
+    "buku": "Beyond That, the Sea",
+    "penulis": "Laura Spence-Ash",
+    "imageId": "Beyond That, the Sea"
+  },
+  {
+    "buku": "The Dangers of Smoking in Bed",
+    "penulis": "Mariana Enríquez",
+    "imageId": "The Dangers of Smoking in Bed"
+  },
+  {
+    "buku": "Once Upon a Tome",
+    "penulis": "Oliver Darkshire",
+    "imageId": "Once Upon a Tome"
+  },
+  {
+    "buku": "Pride and Prejudice",
+    "penulis": "Jane Austen",
+    "imageId": "Pride and Prejudice"
+  },
+  {
+    "buku": "Shadow and Bone",
+    "penulis": "Leigh Bardugo",
+    "imageId": "Shadow and Bone"
+  },
+  {
+    "buku": "The Lion, the Witch and the Wardrobe",
+    "penulis": "C.S. Lewis",
+    "imageId": "The Lion, the Witch and the Wardrobe"
+  },
+  {
+    "buku": "Wuthering Heights ",
+    "penulis": "Emily Brontë",
+    "imageId": "Wuthering Heights"
+  },
+  {
+    "buku": "Count Your Lucky Stars",
+    "penulis": "Alexandria Bellefleur",
+    "imageId": "Count Your Lucky Stars"
+  },
+  {
+    "buku": "Briefly, A Delicious Life",
+    "penulis": "Nell Stevens",
+    "imageId": "Briefly, A Delicious Life"
+  },
+  {
+    "buku": "Harry Potter and the Sorcerer's Stone",
+    "penulis": "J.K. Rowling",
+    "imageId": "Harry Potter and the Sorcerer's Stone"
+  },
+  {
+    "buku": "The Call of the Wild",
+    "penulis": " Jack London",
+    "imageId": "The Call of the Wild"
+  },
+  {
+    "buku": "All the Light We Cannot See",
+    "penulis": "Anthony Doerr",
+    "imageId": "All the Light We Cannot See"
+  },
+  {
+    "buku": "A Tree Grows in Brooklyn",
+    "penulis": "Betty Smith",
+    "imageId": "A Tree Grows in Brooklyn"
+  },
+  {
+    "buku": "To Kill a Mockingbird",
+    "penulis": "Harper Lee",
+    "imageId": "To Kill a Mockingbird"
+  }
+]
