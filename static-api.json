@@ -1,72 +1,72 @@
 [
   {
-    "buku": "Beyond That, the Sea",
-    "penulis": "Laura Spence-Ash",
+    "nama": "Beyond That, the Sea",
+    "namaLatin": "Laura Spence-Ash",
     "imageId": "Beyond That, the Sea"
   },
   {
-    "buku": "The Dangers of Smoking in Bed",
-    "penulis": "Mariana Enríquez",
+    "nama": "The Dangers of Smoking in Bed",
+    "namaLatin": "Mariana Enríquez",
     "imageId": "The Dangers of Smoking in Bed"
   },
   {
-    "buku": "Once Upon a Tome",
-    "penulis": "Oliver Darkshire",
+    "nama": "Once Upon a Tome",
+    "namaLatin": "Oliver Darkshire",
     "imageId": "Once Upon a Tome"
   },
   {
-    "buku": "Pride and Prejudice",
-    "penulis": "Jane Austen",
+    "nama": "Pride and Prejudice",
+    "namaLatin": "Jane Austen",
     "imageId": "Pride and Prejudice"
   },
   {
-    "buku": "Shadow and Bone",
-    "penulis": "Leigh Bardugo",
+    "nama": "Shadow and Bone",
+    "namaLatin": "Leigh Bardugo",
     "imageId": "Shadow and Bone"
   },
   {
-    "buku": "The Lion, the Witch and the Wardrobe",
-    "penulis": "C.S. Lewis",
+    "nama": "The Lion, the Witch and the Wardrobe",
+    "namaLatin": "C.S. Lewis",
     "imageId": "The Lion, the Witch and the Wardrobe"
   },
   {
-    "buku": "Wuthering Heights ",
-    "penulis": "Emily Brontë",
+    "nama": "Wuthering Heights ",
+    "namaLatin": "Emily Brontë",
     "imageId": "Wuthering Heights"
   },
   {
-    "buku": "Count Your Lucky Stars",
-    "penulis": "Alexandria Bellefleur",
+    "nama": "Count Your Lucky Stars",
+    "namaLatin": "Alexandria Bellefleur",
     "imageId": "Count Your Lucky Stars"
   },
   {
-    "buku": "Briefly, A Delicious Life",
-    "penulis": "Nell Stevens",
+    "nama": "Briefly, A Delicious Life",
+    "namaLatin": "Nell Stevens",
     "imageId": "Briefly, A Delicious Life"
   },
   {
-    "buku": "Harry Potter and the Sorcerer's Stone",
-    "penulis": "J.K. Rowling",
+    "nama": "Harry Potter and the Sorcerer's Stone",
+    "namaLatin": "J.K. Rowling",
     "imageId": "Harry Potter and the Sorcerer's Stone"
   },
   {
-    "buku": "The Call of the Wild",
-    "penulis": " Jack London",
+    "nama": "The Call of the Wild",
+    "namaLatin": " Jack London",
     "imageId": "The Call of the Wild"
   },
   {
-    "buku": "All the Light We Cannot See",
-    "penulis": "Anthony Doerr",
+    "nama": "All the Light We Cannot See",
+    "namaLatin": "Anthony Doerr",
     "imageId": "All the Light We Cannot See"
   },
   {
-    "buku": "A Tree Grows in Brooklyn",
-    "penulis": "Betty Smith",
+    "nama": "A Tree Grows in Brooklyn",
+    "namaLatin": "Betty Smith",
     "imageId": "A Tree Grows in Brooklyn"
   },
   {
-    "buku": "To Kill a Mockingbird",
-    "penulis": "Harper Lee",
+    "nama": "To Kill a Mockingbird",
+    "namaLatin": "Harper Lee",
     "imageId": "To Kill a Mockingbird"
   }
 ]
